@@ -228,7 +228,7 @@ print(losses)
     
      
 
-sentence = ["Then", "child"]
+sentence = ["And", "my"]
 x = sentence
 for i in range(100):
     x_var = autograd.Variable(torch.LongTensor([word_to_ix[word] for word in x]))
