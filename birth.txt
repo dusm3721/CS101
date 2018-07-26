@@ -1234,3 +1234,82 @@
 130 291   0  30  65 150   1
 125 281   1  21  65 110   0
 117 297   0  38  65 129   0
+
+
+|Reply to Proofs|
+
+Thanks for the proofs. Our replies are as below:
+
+------------------------------------------------------------
+Specific Questions and Comments to Address for This Paper
+------------------------------------------------------------
+
+1. ΛCDM is short for Lambda cold dark matter.
+
+2. Yes, “slope” is correct.
+
+3. We confirm that the funding agencies have been properly identified.
+
+4. 
+Reference [3]:
+BibTex:
+@article{almheiri2013black,
+  title={Black holes: complementarity or firewalls?},
+  author={Almheiri, Ahmed and Marolf, Donald and Polchinski, Joseph and Sully, James},
+  journal={Journal of High Energy Physics},
+  volume={2013},
+  number={2},
+  pages={62},
+  year={2013},
+  publisher={Springer}
+}
+DOI: https://doi.org/10.1007/JHEP02(2013)062
+
+Reference [8]:
+BibTex:
+@article{cardoso2017tests,
+  title={Tests for the existence of black holes through gravitational wave echoes},
+  author={Cardoso, Vitor and Pani, Paolo},
+  journal={Nature Astronomy},
+  volume={1},
+  number={9},
+  pages={586},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+DOI: https://doi.org/10.1038/s41550-017-0225-y
+
+Reference [21]:
+BibTex:
+@article{chandrasekhar1975quasi,
+  title={The quasi-normal modes of the Schwarzschild black hole},
+  author={Chandrasekhar, Subrahmanyan and Detweiler, Steven},
+  journal={Proc. R. Soc. Lond. A},
+  volume={344},
+  number={1639},
+  pages={441--452},
+  year={1975},
+  publisher={The Royal Society}
+}
+DOI: https://doi.org/10.1098/rspa.1975.0112
+
+5. Both are New York City.
+
+6. We confirm that the links are correct.
+
+7. See Item 4.
+
+8. We confirm the updated publishing information for Reference [9, 12] is correct.
+
+9. See Item 4.
+
+10. The author name is “LIGO Scientific Collaboration”.
+
+11. There is no update for Reference [34].
+
+
+------------------------------------------------------------
+Other Items
+------------------------------------------------------------
+
+1. In the 3rd paragraph of section “Conclusions and discussions”, or Line 280, “delectability” should be “detectability”.
